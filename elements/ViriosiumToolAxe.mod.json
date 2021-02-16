@@ -1,0 +1,31 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "viriosiumtool_axe",
+    "customModelName": "Normal",
+    "name": "Viriosium Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Viriosium"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 17.0,
+    "usageCount": 4082,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ViriosiumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

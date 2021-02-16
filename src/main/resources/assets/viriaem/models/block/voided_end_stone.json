@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "viriaem:blocks/voided_endstone",
+    "up": "viriaem:blocks/voided_endstone",
+    "north": "viriaem:blocks/voided_endstone",
+    "east": "viriaem:blocks/voided_endstone",
+    "south": "viriaem:blocks/voided_endstone",
+    "west": "viriaem:blocks/voided_endstone",
+    "particle": "viriaem:blocks/voided_endstone"
+  }
+}

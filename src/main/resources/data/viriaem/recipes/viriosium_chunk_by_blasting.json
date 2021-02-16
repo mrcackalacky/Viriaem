@@ -1,0 +1,12 @@
+{
+  "group": "viriaem",
+  "type": "minecraft:blasting",
+  "experience": 5,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "viriaem:deleted_mod_element"
+  },
+  "result": {
+    "item": "viriaem:viriosium_chunk"
+  }
+}

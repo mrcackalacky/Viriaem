@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 5.0,
+    "cookingTime": 600,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:VoidedEndStoneOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:ViriosiumChunk"
+    },
+    "name": "viriosium_chunk_by_blasting",
+    "namespace": "mod"
+  }
+}

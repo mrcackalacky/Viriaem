@@ -1,0 +1,12 @@
+{
+  "group": "viriaem",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 1200,
+  "ingredient": {
+    "item": "viriaem:deleted_mod_element"
+  },
+  "result": {
+    "item": "viriaem:viriosium_chunk"
+  }
+}

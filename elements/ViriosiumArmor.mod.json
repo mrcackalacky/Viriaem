@@ -1,0 +1,58 @@
+{
+  "_fv": 15,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "viriosium_helmet_1",
+    "enableBody": true,
+    "textureBody": "viriosium_chestplate_1",
+    "enableLeggings": true,
+    "textureLeggings": "viriosium_leggins_1",
+    "enableBoots": true,
+    "textureBoots": "viriosium_boots_1",
+    "creativeTab": {
+      "value": "CUSTOM:Viriosium"
+    },
+    "armorTextureFile": "viriosium_",
+    "helmetName": "Viriosium Helmet",
+    "bodyName": "Viriosium Body",
+    "leggingsName": "Viriosium Leggings",
+    "bootsName": "Viriosium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 60,
+    "damageValueHelmet": 8,
+    "damageValueBody": 24,
+    "damageValueLeggings": 20,
+    "damageValueBoots": 6,
+    "enchantability": 18,
+    "toughness": 6.0,
+    "knockbackResistance": 0.5,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ViriosiumIngot"
+      }
+    ]
+  }
+}

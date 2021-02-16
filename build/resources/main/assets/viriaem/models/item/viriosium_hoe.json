@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "viriaem:items/viriosiumtool_hoe"
+  }
+}

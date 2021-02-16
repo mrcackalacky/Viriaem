@@ -1,0 +1,31 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "viriosiumtool_hoe",
+    "customModelName": "Normal",
+    "name": "ViriosiumTool Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Viriosium"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 3.0,
+    "usageCount": 4082,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ViriosiumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

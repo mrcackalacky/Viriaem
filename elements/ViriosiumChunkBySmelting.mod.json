@@ -1,0 +1,20 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 5.0,
+    "cookingTime": 1200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:VoidedEndStoneOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:ViriosiumChunk"
+    },
+    "name": "viriosium_chunk_by_smelting",
+    "namespace": "mod"
+  }
+}

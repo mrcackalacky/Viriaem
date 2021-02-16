@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_HELMET"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:ViriosiumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:ViriosiumArmor.helmet"
+    },
+    "name": "viriosium_armor_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}
